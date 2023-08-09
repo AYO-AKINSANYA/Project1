@@ -69,3 +69,15 @@ form textarea {
 .Send:hover {
     background-color: #7a7a72d6;
 }
+
+@media screen and (max-width: 576px) {
+
+    main {
+        padding: 300px 16px;
+    }
+
+    form {
+        width: 100%;
+        padding: 16px 16px;
+    }
+}
