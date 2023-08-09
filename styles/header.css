@@ -24,6 +24,10 @@ button {
     cursor: pointer;
 }
 
+button p {
+    color: #7f6626dd;
+}
+
 header {
     background-color: #10100ffa;
     padding: 0px 20px;
@@ -92,6 +96,14 @@ header nav a {
 
     header h1 {
         font-size: 2rem;
+    }
+
+    header nav a {
+        color: #7f6626dd;
+    }
+
+    button p {
+        color: #7f6626dd;
     }
 
     .profile,
